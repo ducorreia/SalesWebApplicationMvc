@@ -1,5 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+<<<<<<< HEAD
+using SalesWebMvc.Models.ViewModels;
+=======
 using SalesWebMvc.Models;
+>>>>>>> 70a8acc28934ef667f484421a44b3fa702c48a1c
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
